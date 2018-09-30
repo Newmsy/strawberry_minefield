@@ -2,11 +2,8 @@
 
 Required Modules:
   notify-run,
-  
   webbrowser,
-  
-  time,
-  
+  time,  
   requests
   
 
