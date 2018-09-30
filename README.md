@@ -1,10 +1,11 @@
 #Reddit MemeEconomy Scanner
 
 Required Modules:
-  notify-run
-  webbrowser
-  time
+  notify-run,
+  webbrowser,
+  time,  
   requests
+  
 
 Comes with two files for completing the desired task.
 1) A number of classes for interpreting the Reddit API. This produces data of each post found in rising, top, new...etc sections as well as sorting the data under named keys in dictionaries.
