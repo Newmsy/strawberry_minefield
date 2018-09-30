@@ -1,4 +1,4 @@
-#Reddit MemeEconomy Scanner
+#Reddit MemeEconomy Scanner#
 
 Required Modules:
   notify-run,
